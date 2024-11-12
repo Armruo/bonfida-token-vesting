@@ -1,4 +1,3 @@
-20241024
 <h1 align="center">Token vesting</h1>
 <br />
 <p align="center">
